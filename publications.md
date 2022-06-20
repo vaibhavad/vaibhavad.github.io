@@ -41,6 +41,8 @@ You can also browse my <a href="https://www.semanticscholar.org/author/Vaibhav-A
   *AKBC 2021*  
   [Paper](https://arxiv.org/abs/2005.00480){: .pub-btn}
   [Code](https://github.com/dair-iitd/kbi-regex){: .pub-btn}
+  [Slides](/static/slides/regex_slides.pdf){: .pub-btn}
+  [Video](/static/video/regex_video.mp4){: .pub-btn}
 
 **2020**
 
@@ -49,4 +51,6 @@ You can also browse my <a href="https://www.semanticscholar.org/author/Vaibhav-A
   *EMNLP 2020*  
   [Paper](https://arxiv.org/abs/2005.00480){: .pub-btn}
   [Code](https://github.com/dair-iitd/openie6){: .pub-btn}
+  [Slides](/static/slides/openie6_slides.pdf){: .pub-btn}
+  [Video](https://slideslive.com/38939380/openie6-interative-grid-labeling-and-coordination-analysis-for-open-information-extraction){: .pub-btn}
 
