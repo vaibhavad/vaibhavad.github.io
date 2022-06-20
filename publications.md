@@ -20,6 +20,9 @@ You can also browse my <a href="https://www.semanticscholar.org/author/Vaibhav-A
   [Paper](https://arxiv.org/abs/2203.15867){: .pub-btn}
   [Code](https://github.com/mcgill-nlp/imagecode){: .pub-btn}
   [Website](https://mcgill-nlp.github.io/imagecode){: .pub-btn}
+  [Slides](/static/slides/imagecode_slides.pdf){: .pub-btn}
+  [Poster](/static/poster/imagecode_poster.pdf){: .pub-btn}
+  [Video (Benno)](/static/video/imagecode_video.mp4){: .pub-btn}
 
 - **TopiOCQA: Open-domain Conversational Question Answering with Topic Switching**  
   **Vaibhav Adlakha**, Shehzaad Dhuliawala, Kaheer Suleman, Harm de Vries, Siva Reddy  
@@ -27,6 +30,9 @@ You can also browse my <a href="https://www.semanticscholar.org/author/Vaibhav-A
   [Paper](https://arxiv.org/abs/2110.00768){: .pub-btn}
   [Code](https://github.com/McGill-NLP/topiocqa){: .pub-btn}
   [Website](https://mcgill-nlp.github.io/topiocqa){: .pub-btn}
+  [Slides](/static/slides/topiocqa_slides.pdf){: .pub-btn}
+  [Poster](/static/poster/topiocqa_poster.pdf){: .pub-btn}
+  [Video](/static/video/topiocqa_video.mp4){: .pub-btn}
 
 **2021**
 
