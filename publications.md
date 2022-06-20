@@ -49,7 +49,7 @@ You can also browse my <a href="https://www.semanticscholar.org/author/Vaibhav-A
 - **OpenIE6: Iterative Grid Labeling and Coordination Analysis for Open Information Extraction**  
   Keshav Kolluru\*, **Vaibhav Adlakha**\*, Samarth Aggarwal, Mausam, Soumen Chakrabarti  
   *EMNLP 2020*  
-  [Paper](https://arxiv.org/abs/2005.00480){: .pub-btn}
+  [Paper](https://arxiv.org/abs/2010.03147){: .pub-btn}
   [Code](https://github.com/dair-iitd/openie6){: .pub-btn}
   [Slides](/static/slides/openie6_slides.pdf){: .pub-btn}
   [Video](https://slideslive.com/38939380/openie6-interative-grid-labeling-and-coordination-analysis-for-open-information-extraction){: .pub-btn}
