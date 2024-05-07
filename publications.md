@@ -6,11 +6,31 @@ title: Publications
 You can also browse my <a href="https://www.semanticscholar.org/author/Vaibhav-Adlakha/1666183192" target="_blank">Semantic Scholar profile</a>.
 <br />
 
+**2024**
+
+
+- **LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders**    
+  Parishad BehnamGhader\*, **Vaibhav Adlakha**\*, Marius Mosbach, Dzmitry Bahdanau, Nicolas Chapados, Siva Reddy    
+  *Under Review*    
+  [Paper](https://arxiv.org/abs/2404.05961){: .pub-btn}
+  [Code](https://github.com/McGill-NLP/llm2vec?tab=readme-ov-file){: .pub-btn}
+  [Blog](https://www.servicenow.com/blogs/2024/llm2vec-large-language-models){: .pub-btn}
+  [Tutorial](https://mcgill-nlp.github.io/llm2vec/tutorial){: .pub-btn}
+  [HuggingFace Model](https://huggingface.co/collections/McGill-NLP/llm2vec-660e14f536b3c8d10b3f1c34){: .pub-btn}
+
+
+- **Evaluating Correctness and Faithfulness of Instruction-Following Models for Question Answering**    
+  **Vaibhav Adlakha**, Parishad BehnamGhader, Xing Han Lu, Nicholas Meade, Siva Reddy    
+  *TACL 2024*    
+  [Paper](https://arxiv.org/abs/2307.16877){: .pub-btn}
+  [Code](https://github.com/McGill-NLP/instruct-qa){: .pub-btn}
+
+
 **2022**
 
 - **Evaluating the Faithfulness of Importance Measures in NLP by Recursively Masking Allegedly Important Tokens and Retraining**  
   Andreas Madsen, Nicholas Meade, **Vaibhav Adlakha**, Siva Reddy  
-  *Preprint*  
+  *EMNLP Findings 2022*  
   [Paper](https://arxiv.org/abs/2110.08412){: .pub-btn}
   [Code](https://github.com/AndreasMadsen/nlp-roar-interpretability){: .pub-btn}
 
